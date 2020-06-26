@@ -28,8 +28,11 @@ Before running this script you will need to have installed:
 PyPDF2 can be installed via pip with:
 
 ```bash
-$ pip install pypdf2
+$ pip install PyPDF2
 ```
+
+If you get an ImportError for PyDF2 when running the code make sure that you have installed PyPDF2 into the correct version of Python (if you have multiple versions installed on your machine) and that you are executing the correct version of Python.
+See issue [#1][i1].
 
 ### Running the script
 
@@ -82,3 +85,5 @@ This project is licensed under the MIT license - see `LICENSE.txt`.
 - Allow more flexibility with input and output paper sizes (A3, US letter etc.)
 - Add another CLI argument for naming the output file.
 - Allow for multiple input files.
+
+[i1]: https://github.com/mullinscr/pocketmod-creator/issues/1
