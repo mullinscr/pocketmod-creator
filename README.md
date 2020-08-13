@@ -9,8 +9,9 @@ See [pocketmod.com](https://pocketmod.com/) or search online for "PocketMod"
 for more information.
 
 *Searching online for "pocket mod" (two words) will bring up information*
-*about an *electric scooter - this script will **not** create an electric*
-*scooter!*
+*about an*
+electric scooter
+*- this script will **not** create an electric scooter!*
 
 ## Installation
 
